@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/piece">
+        <file>chesspieces/bB.svg</file>
+        <file>chesspieces/bK.svg</file>
+        <file>chesspieces/bN.svg</file>
+        <file>chesspieces/bP.svg</file>
+        <file>chesspieces/bQ.svg</file>
+        <file>chesspieces/bR.svg</file>
+        <file>chesspieces/wB.svg</file>
+        <file>chesspieces/wK.svg</file>
+        <file>chesspieces/wN.svg</file>
+        <file>chesspieces/wP.svg</file>
+        <file>chesspieces/wQ.svg</file>
+        <file>chesspieces/wR.svg</file>
+    </qresource>
+</RCC>
